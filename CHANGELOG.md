@@ -1,3 +1,15 @@
+## [3.10.3](https://github.com/seanjameshan/starknet.js/compare/v3.10.2...v3.10.3) (2022-05-04)
+
+### Bug Fixes
+
+- **encode:** maximum call stack size exceeded ([3cd8195](https://github.com/seanjameshan/starknet.js/commit/3cd8195d0fcde7d2cf6460959bb2c9f45ef7d066))
+
+## [3.10.2](https://github.com/seanjameshan/starknet.js/compare/v3.10.1...v3.10.2) (2022-04-27)
+
+### Bug Fixes
+
+- **tests:** fix getBlock blocks ([c0422b7](https://github.com/seanjameshan/starknet.js/commit/c0422b7d963639d34082731f6efbe3f0dd2c3c4d))
+
 ## [3.10.1](https://github.com/seanjameshan/starknet.js/compare/v3.10.0...v3.10.1) (2022-04-20)
 
 ### Bug Fixes
